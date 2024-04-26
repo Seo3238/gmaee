@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\me.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|solutionrelative:qhqHqpqp\\me.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|solutionrelative:qhqHqpqp\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uACF5\uB8E1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|solutionrelative:qhqHqpqp\\\uACF5\uB8E1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uACF5\uB8E1\uBC31\uC5C5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|solutionrelative:qhqHqpqp\\\uACF5\uB8E1\uBC31\uC5C5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uD5C8\uB4E4\uBC31\uC5C5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92C95A4A-C717-4CE0-935A-11D29476E213}|qhqHqpqp\\qhqHqpqp.vcxproj|solutionrelative:qhqHqpqp\\\uD5C8\uB4E4\uBC31\uC5C5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "me.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\me.c",
+              "RelativeDocumentMoniker": "qhqHqpqp\\me.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\me.c",
+              "RelativeToolTip": "qhqHqpqp\\me.c",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAIwMEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-26T07:25:29.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uACF5\uB8E1\uBC31\uC5C5.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uACF5\uB8E1\uBC31\uC5C5.c",
+              "RelativeDocumentMoniker": "qhqHqpqp\\\uACF5\uB8E1\uBC31\uC5C5.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uACF5\uB8E1\uBC31\uC5C5.c",
+              "RelativeToolTip": "qhqHqpqp\\\uACF5\uB8E1\uBC31\uC5C5.c",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-26T02:35:48.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uD5C8\uB4E4\uBC31\uC5C5.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uD5C8\uB4E4\uBC31\uC5C5.c",
+              "RelativeDocumentMoniker": "qhqHqpqp\\\uD5C8\uB4E4\uBC31\uC5C5.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uD5C8\uB4E4\uBC31\uC5C5.c",
+              "RelativeToolTip": "qhqHqpqp\\\uD5C8\uB4E4\uBC31\uC5C5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-26T01:43:09.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uACF5\uB8E1.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uACF5\uB8E1.c",
+              "RelativeDocumentMoniker": "qhqHqpqp\\\uACF5\uB8E1.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\\uACF5\uB8E1.c",
+              "RelativeToolTip": "qhqHqpqp\\\uACF5\uB8E1.c",
+              "ViewState": "AQIAALQAAAAAAAAAAAAswCUBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-26T01:33:54.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\FileName.c",
+              "RelativeDocumentMoniker": "qhqHqpqp\\FileName.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\uAE43\\\uC0C8 \uD3F4\uB354\\repos\\qhqHqpqp\\qhqHqpqp\\FileName.c",
+              "RelativeToolTip": "qhqHqpqp\\FileName.c",
+              "ViewState": "AQIAALUAAAAAAAAAAAAIwMoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-26T06:11:07.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
